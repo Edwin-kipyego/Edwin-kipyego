@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Edwin Kipyego 👋
 
-<!--
-**Edwin-kipyego/Edwin-kipyego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate full-stack web development student at Moringa School in Nairobi, Kenya. I enjoy building useful web applications and constantly learning new skills.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning: JavaScript, Python, HTML, CSS, and Git
+- 🔭 Working on: A Weather App with login and user feedback features
+- ⚡ Fun facts: I love hiking, football (Barcelona & Chelsea fan), playing pool, and coding at night
+
+## Tech Stack
+
+- **Languages:** JavaScript, Python, HTML, CSS, C++
+- **Tools:** VS Code, Git, GitHub, Terminal
+- **Frameworks:** Currently exploring React and Node.js
+
+## Projects
+
+- [Weather App](https://github.com/Edwin-kipyego/weather-app): Built with JavaScript & OpenWeather API
+- [My DEV Blog](https://dev.to/edwinkipyego/building-my-first-weather-app-at-moringa-school-a-develpers-journey-55ad): My journey building my first weather app
+
+## Connect with Me
+
+
+- Email:koriredwin95@gmail.com
+
