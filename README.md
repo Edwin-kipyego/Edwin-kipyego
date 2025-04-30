@@ -18,7 +18,7 @@ I'm a passionate full-stack web development student at Moringa School in Nairobi
 
 ## Tech Stack
 
-- **Languages:** JavaScript, Python, HTML, CSS, C++
+- **Languages:** JavaScript, Python, HTML, CSS
 - **Tools:** VS Code, Git, GitHub, Terminal
 - **Frameworks:** Currently exploring React and Node.js
 
@@ -39,7 +39,7 @@ I'm a passionate full-stack web development student at Moringa School in Nairobi
 
 
 ## Connect with Me
-
+[LinkedIn]https://ke.linkedin.com/in/edwin-kipyego-103050129
 
 - Email:koriredwin95@gmail.com
 
