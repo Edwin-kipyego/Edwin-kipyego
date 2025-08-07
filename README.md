@@ -1,40 +1,76 @@
-# Hi there, I'm Edwin Kipyego 👋
+#  Hi there, I'm Edwin Kipyego
 
-I'm a passionate full-stack web development student at Moringa School in Nairobi, Kenya. I enjoy building useful web applications and constantly learning new skills.
-
-![GitHub followers](https://img.shields.io/github/followers/Edwin-kipyego?label=Followers&style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/Edwin-kipyego?affiliations=OWNER%2CCOLLABORATOR&style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=Edwin-kipyego&color=blue)
+ Passionate Full-Stack Developer based in Nairobi, Kenya  
+Focused on building real-world, scalable web applications  
+ Currently pursuing software engineering at **Moringa School**
 
 ---
 
 ## About Me
 
-- 🌱 Currently learning: JavaScript, Python, HTML, CSS, and Git
-- 🔭 Working on: A Weather App with login and user feedback features
-- ⚡ Fun facts: I love hiking, football (Barcelona & Chelsea fan), playing pool, and coding at night
+-  **Currently working on:** Migrating my event ticketing system (Ticksy) to Django
+-  **Learning:** React, Django, PostgreSQL, API design, cloud deployment
+-  **Fun facts:** I love hiking, football (Barcelona & Chelsea fan ⚽), pool, and late-night coding
 
 ---
 
 ## Tech Stack
 
-- **Languages:** JavaScript, Python, HTML, CSS
-- **Tools:** VS Code, Git, GitHub, Terminal
-- **Frameworks:** Currently exploring React and Node.js
+**Languages:** Python, JavaScript, HTML, CSS  
+**Frameworks:** Django, Flask, React, Tailwind  
+**Databases:** PostgreSQL, SQLite  
+**Tools:** Git, GitHub, Postman, VS Code, GitHub Copilot  
 
 ---
 
-## Projects
+## Featured Projects
 
-- [Weather App](https://github.com/Edwin-kipyego/weather-app): Built with JavaScript & OpenWeather API
-- [My DEV Blog](https://dev.to/edwinkipyego/building-my-first-weather-app-at-moringa-school-a-develpers-journey-55ad): My journey building my first weather app
+### Ticksy – Event Ticketing System
+Event creation and ticket booking platform with MPESA integration.  
+- Built with Flask + React  
+- Role-based access: Admin, Organizer, Attendee  
+- Currently migrating to Django for scalability  
+   [View Repo](https://github.com/Edwin-kipyego)
 
 ---
 
-## GitHub Stats
+### Coursify – Peer Learning Platform
+Users can create, join, and reflect on courses.  
+- Features: Authentication, dashboards, search, leaderboard  
+- Stack: Flask + React + PostgreSQL
 
-![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edwin-kipyego&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin-kipyego&layout=compact&theme=radical)
+---
+
+### Weather App
+Responsive weather dashboard built with React + OpenWeather API  
+- Includes login and feedback system  
+- Blog: [My DEV Blog](https://dev.to/edwinkipyego/building-my-first-weather-app-at-moringa-school-a-develpers-journey-55ad)
+
+---
+
+###  Freebie Tracker – REST API
+Tracks developers and companies offering freebies.  
+- Full CRUD, model relationships  
+- Built with Flask + SQLAlchemy + PostgreSQL
+
+---
+
+###  Student Management System
+Python CLI tool for managing students, courses, and departments  
+- Stack: Python + SQLAlchemy + Alembic
+
+---
+
+##  Let's Connect
+
+ koriredwin95@gmail.com  
+Nairobi, Kenya  
+ [GitHub Profile](https://github.com/Edwin-kipyego)
+
+---
+
+ *"Build it. Break it. Fix it. Learn."*
+
 
 
 
